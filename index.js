@@ -1,3 +1,5 @@
+import { print } from './js/lib.js';
+
 class Animal {
     constructor(species, name, gender, legs, arms, saying) {
         this.species = species;
